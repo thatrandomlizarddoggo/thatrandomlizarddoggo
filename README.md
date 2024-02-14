@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thatrandomlizarddoggo
 - 👀 I’m interested in python
-- 🌱 I’m currently learning how to work with django
+- 🌱 I’m currently learning how to work with django and make an os in python
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
