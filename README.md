@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thatrandomlizarddoggo
-- 👀 I’m interested in python and 
-- 🌱 I’m currently learning how to work with c++
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+- 👀 I’m interested in python and java
+- 🌱 I’m currently learning how to work with java
+- 💞️ I’m looking to collaborate on nothing for the moment
+- 📫 How to reach me @thatrandomlizarddoggo on discord
 
 <!---
 thatrandomlizarddoggo/thatrandomlizarddoggo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
