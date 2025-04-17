@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thatrandomlizarddoggo
-- 👀 I’m interested in python and java and llm's
-- 🌱 I’m currently learning java
-- 📫 How to reach me @thatrandomlizarddoggo on discord
+- 👀 I’m interested in python and building ai stuff
+- 🌱 I’m currently building an ai i call satori
+- 📫 How to reach me @thatrandomlizarddoggo on discord or ththatrandomlizarddoggo@gmail.com
 
 <!---
 thatrandomlizarddoggo/thatrandomlizarddoggo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
